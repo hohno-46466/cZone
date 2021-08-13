@@ -172,4 +172,6 @@ Wed Jun 23 22:58:56 JST 2021
 -->
 
 
+Note: 	url = https://github.com/hohno-46466/cZone
+
 -EOF-
