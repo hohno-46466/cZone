@@ -276,8 +276,8 @@ Code Zone
      5 directories, 33 files (Sun Jul 17 17:48:08 JST 2022)
 
 
-Note:	url = https://github.com/hohno-46466/cZone
+Note: url = https://github.com/hohno-46466/cZone
 
-Note:	url = git@github.com:hohno-46466/cZone.git
+Note: url = git@github.com:hohno-46466/cZone.git
 
 -EOF-
