@@ -5,10 +5,9 @@ Code Zone
     ./cZone
      ├──  00README.txt
      ├──  README.md
-     ├──  README.md.bak
      └──  README.md.old
      
-     0 directories, 4 files (Wed Jul 27 00:13:10 JST 2022)
+     0 directories, 3 files (Wed Jul 27 10:44:36 JST 2022)
 
     ./cZone--Arduino--ArrowLight
      ├──  COMMON -> ../cZone--Arduino--COMMON/src/All_Arduinos
@@ -44,7 +43,7 @@ Code Zone
          └──  sketch_20210926a_sampleSketch1/
              └──  sketch_20210926a_sampleSketch1.ino
      
-     6 directories, 26 files (Wed Jul 27 00:13:10 JST 2022)
+     6 directories, 26 files (Wed Jul 27 10:44:36 JST 2022)
 
     ./cZone--Arduino--COMMON
      ├──  ==PrivateRepository==
@@ -92,7 +91,7 @@ Code Zone
              ├──  secret-ap.h -> secret-ap-dummy.h
              └──  secret.h -> secret-ap.h
      
-     11 directories, 33 files (Wed Jul 27 00:13:10 JST 2022)
+     11 directories, 33 files (Wed Jul 27 10:44:37 JST 2022)
 
     ./cZone--Arduino--DateTimeDisplay
      ├──  ==PrivateRepository==
@@ -136,7 +135,7 @@ Code Zone
              └──  test/
                  └──  README
      
-     8 directories, 32 files (Wed Jul 27 00:13:10 JST 2022)
+     8 directories, 32 files (Wed Jul 27 10:44:37 JST 2022)
 
     ./cZone--Arduino--TEMPLATE
      ├──  99.bat
@@ -166,21 +165,21 @@ Code Zone
              ├──  myself.h
              └──  sketch_21mmdda_example1.ino
      
-     5 directories, 21 files (Wed Jul 27 00:13:10 JST 2022)
+     5 directories, 21 files (Wed Jul 27 10:44:37 JST 2022)
 
     ./cZone--Arduino--variousPrivateSketches
      ├──  ==PrivateRepository==
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Wed Jul 27 00:13:11 JST 2022)
+     0 directories, 3 files (Wed Jul 27 10:44:37 JST 2022)
 
     ./cZone--Arduino--variousSketches
      ├──  README.md
      ├──  README.md.old
      └──  test.txt
      
-     0 directories, 3 files (Wed Jul 27 00:13:11 JST 2022)
+     0 directories, 3 files (Wed Jul 27 10:44:37 JST 2022)
 
     ./cZone--Arduino--zzRTC
      ├──  README-old.md
@@ -194,7 +193,7 @@ Code Zone
      ├──  zzRTC.h
      └──  zzRTC.md
      
-     2 directories, 8 files (Wed Jul 27 00:13:11 JST 2022)
+     2 directories, 8 files (Wed Jul 27 10:44:37 JST 2022)
 
     ./cZone--Processing3--MQTTclock
      ├──  ==PrivateRepository==
@@ -213,26 +212,7 @@ Code Zone
          └──  sketch_20211227a_MQTTclock2/
              └──  README.md
      
-     4 directories, 11 files (Wed Jul 27 00:13:11 JST 2022)
-
-    ./cZone--Processing3--MQTTclock1
-     ├──  ==PrivateRepository==
-     ├──  QQ-MQTTclock1.sh
-     ├──  README.md
-     ├──  README.md.old
-     ├──  ignoreMe/
-     │   └──  00doit-1.sh
-     └──  src/
-         ├──  sketch_20190506a_MQTTclock1/
-         │   ├──  MQTTclockSub.pde
-         │   ├──  README.md
-         │   ├──  drawClock.pde
-         │   ├──  myString.pde
-         │   └──  sketch_20190506a_MQTTclock1.pde
-         └──  sketch_20211227a_MQTTclock2/
-             └──  README.md
-     
-     4 directories, 11 files (Wed Jul 27 00:13:11 JST 2022)
+     4 directories, 11 files (Wed Jul 27 10:44:37 JST 2022)
 
     ./cZone--Processing3--tamaClock
      ├──  README.md
@@ -274,7 +254,7 @@ Code Zone
          ├──  tamaClock.pde.prev
          └──  tamaClock4iPad.pde
      
-     5 directories, 33 files (Wed Jul 27 00:13:11 JST 2022)
+     5 directories, 33 files (Wed Jul 27 10:44:37 JST 2022)
 
 
 Note: url = https://github.com/hohno-46466/cZone
