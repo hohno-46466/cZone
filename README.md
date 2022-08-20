@@ -7,7 +7,49 @@ Code Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Fri Aug 12 21:57:32 JST 2022)
+     0 directories, 3 files (Sat Aug 20 23:45:36 JST 2022)
+
+    ./cZone--Arduino--20171101b_SerialTimeServer2
+     ├──  ==PrivateRepository==
+     ├──  NTPservers.h
+     ├──  README.md
+     ├──  convertit.sh
+     ├──  lib/
+     │   └──  readme.txt
+     ├──  mySNTPoverWiFi.cpp
+     ├──  mySNTPoverWiFi.h
+     ├──  myself.cpp
+     ├──  myself.h
+     ├──  platformio.ini
+     ├──  secret.h... -> ../../COMMON/secret.h
+     ├──  setupNTP.cpp
+     ├──  setupNTP.h
+     ├──  setupNTP.ino
+     ├──  sketch_20171101b_SerialTimeService2.ino
+     ├──  sketch_20171101b_SerialTimeService2.ino-20190602-1154
+     ├──  sketch_20171101b_SerialTimeService2.ino-20190603-2027
+     ├──  sketch_20171101b_SerialTimeService2.ino-20190603-2217
+     ├──  sketch_20171101b_SerialTimeService2.ino-20190605-1308
+     └──  sketch_20171101b_SerialTimeService2.ino.generic.bin
+     
+     1 directory, 20 files (Sat Aug 20 23:45:36 JST 2022)
+
+    ./cZone--Arduino--20171231_imasClockT2_ADC_aging
+     ├──  00README.txt
+     ├──  ==PrivateRepository==
+     ├──  README.md
+     ├──  lib/
+     │   └──  readme.txt
+     ├──  myself.cpp
+     ├──  myself.h
+     ├──  platformio.ini
+     ├──  ringbuff.cpp
+     ├──  ringbuff.h
+     ├──  sketch_20171231_imasClockT2_ADC_aging.ino
+     └──  tmp/
+         └──  sketch_20171231_imasClockT2_ADC_aging.ino.prev
+     
+     2 directories, 11 files (Sat Aug 20 23:45:36 JST 2022)
 
     ./cZone--Arduino--ArrowLight
      ├──  COMMON -> ../cZone--Arduino--COMMON/src/All_Arduinos
@@ -43,7 +85,7 @@ Code Zone
          └──  sketch_20210926a_sampleSketch1/
              └──  sketch_20210926a_sampleSketch1.ino
      
-     6 directories, 26 files (Fri Aug 12 21:57:32 JST 2022)
+     6 directories, 26 files (Sat Aug 20 23:45:36 JST 2022)
 
     ./cZone--Arduino--COMMON
      ├──  ==PrivateRepository==
@@ -53,6 +95,7 @@ Code Zone
      │   └──  README.md
      ├──  misc/
      │   ├──  README.md
+     │   ├──  additional-board-manager-URLs.txt
      │   ├──  arduino-fusebit-settings.txt
      │   └──  hardware/
      │       └──  arduino/
@@ -91,7 +134,7 @@ Code Zone
              ├──  secret-ap.h -> secret-ap-dummy.h
              └──  secret.h -> secret-ap.h
      
-     11 directories, 33 files (Fri Aug 12 21:57:32 JST 2022)
+     11 directories, 34 files (Sat Aug 20 23:45:36 JST 2022)
 
     ./cZone--Arduino--DateTimeDisplay
      ├──  ==PrivateRepository==
@@ -135,7 +178,7 @@ Code Zone
              └──  test/
                  └──  README
      
-     8 directories, 32 files (Fri Aug 12 21:57:32 JST 2022)
+     8 directories, 32 files (Sat Aug 20 23:45:36 JST 2022)
 
     ./cZone--Arduino--TEMPLATE
      ├──  99.bat
@@ -165,21 +208,37 @@ Code Zone
              ├──  myself.h
              └──  sketch_21mmdda_example1.ino
      
-     5 directories, 21 files (Fri Aug 12 21:57:32 JST 2022)
+     5 directories, 21 files (Sat Aug 20 23:45:36 JST 2022)
+
+    ./cZone--Arduino--imasClasses
+     ├──  LICENSE
+     ├──  README.md
+     └──  imasMORSE/
+         ├──  examples/
+         │   └──  imasMORSE_20160706A/
+         │       ├──  config.h
+         │       ├──  imasMORSE.cpp -> ../../imasMORSE.cpp
+         │       ├──  imasMORSE.h -> ../../imasMORSE.h
+         │       ├──  imasMORSE_20160706A.ino
+         │       └──  misc.h -> ../../../common/misc.h
+         ├──  imasMORSE.cpp
+         └──  imasMORSE.h
+     
+     3 directories, 9 files (Sat Aug 20 23:45:36 JST 2022)
 
     ./cZone--Arduino--variousPrivateSketches
      ├──  ==PrivateRepository==
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Fri Aug 12 21:57:32 JST 2022)
+     0 directories, 3 files (Sat Aug 20 23:45:36 JST 2022)
 
     ./cZone--Arduino--variousSketches
      ├──  README.md
      ├──  README.md.old
      └──  test.txt
      
-     0 directories, 3 files (Fri Aug 12 21:57:32 JST 2022)
+     0 directories, 3 files (Sat Aug 20 23:45:36 JST 2022)
 
     ./cZone--Arduino--zzRTC
      ├──  README-old.md
@@ -193,7 +252,7 @@ Code Zone
      ├──  zzRTC.h
      └──  zzRTC.md
      
-     2 directories, 8 files (Fri Aug 12 21:57:32 JST 2022)
+     2 directories, 8 files (Sat Aug 20 23:45:37 JST 2022)
 
     ./cZone--Processing3--MQTTclock
      ├──  ==PrivateRepository==
@@ -212,7 +271,7 @@ Code Zone
          └──  sketch_20211227a_MQTTclock2/
              └──  README.md
      
-     4 directories, 11 files (Fri Aug 12 21:57:32 JST 2022)
+     4 directories, 11 files (Sat Aug 20 23:45:37 JST 2022)
 
     ./cZone--Processing3--tamaClock
      ├──  README.md
@@ -254,7 +313,7 @@ Code Zone
          ├──  tamaClock.pde.prev
          └──  tamaClock4iPad.pde
      
-     5 directories, 33 files (Fri Aug 12 21:57:32 JST 2022)
+     5 directories, 33 files (Sat Aug 20 23:45:37 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/cZone
